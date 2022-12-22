@@ -52,3 +52,5 @@ npm run start:dev
 # Run test w/ coverage
 npm run test:cov
 ```
+
+[API Documentation](APIDOC.md)
